@@ -1,0 +1,557 @@
+{
+  "info": {
+    "from": {
+      "year": 2014,
+      "month": 10,
+      "day": 19,
+      "hour": 2,
+      "minute": 0,
+      "second": 0
+    },
+    "to": {
+      "year": 2014,
+      "month": 10,
+      "day": 20,
+      "hour": 1,
+      "minute": 59,
+      "second": 59
+    }
+  },
+  "data": [
+    {
+      "type": "summary",
+      "time": "8:30",
+      "data": {
+        "mic": 36,
+        "total": 36
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "mic": 36,
+        "total": 36
+      }
+    },
+    {
+      "type": "summary",
+      "time": "8:45:0 AM",
+      "data": {
+        "mic": 34,
+        "total": 34
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "mic": 34,
+        "total": 34
+      }
+    },
+    {
+      "type": "summary",
+      "time": "9:0:0 AM",
+      "data": {
+        "mic": 27,
+        "total": 27
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "mic": 27,
+        "total": 27
+      }
+    },
+    {
+      "type": "summary",
+      "time": "9:15:0 AM",
+      "data": {
+        "mic": 33,
+        "total": 33
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "mic": 33,
+        "total": 33
+      }
+    },
+    {
+      "type": "summary",
+      "time": "9:30:0 AM",
+      "data": {
+        "mic": 26,
+        "total": 26
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "mic": 26,
+        "total": 26
+      }
+    },
+    {
+      "type": "summary",
+      "time": "9:45:0 AM",
+      "data": {
+        "mic": 34,
+        "total": 34
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "mic": 34,
+        "total": 34
+      }
+    },
+    {
+      "type": "summary",
+      "time": "10:0:0 AM",
+      "data": {
+        "mic": 31,
+        "total": 31
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "mic": 31,
+        "total": 31
+      }
+    },
+    {
+      "type": "summary",
+      "time": "10:15:0 AM",
+      "data": {
+        "mic": 1,
+        "total": 1
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "mic": 1,
+        "total": 1
+      }
+    },
+    {
+      "type": "period",
+      "num": 1,
+      "title": "Breakfa",
+      "data": {
+        "mic": 222,
+        "total": 222
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "mic": 222,
+        "total": 222
+      }
+    },
+    {
+      "type": "summary",
+      "time": "11:0:0 AM",
+      "data": {
+        "mic": 185,
+        "total": 185
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "mic": 185,
+        "total": 185
+      }
+    },
+    {
+      "type": "summary",
+      "time": "11:15:0 AM",
+      "data": {
+        "mic": 178,
+        "total": 178
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "mic": 178,
+        "total": 178
+      }
+    },
+    {
+      "type": "summary",
+      "time": "11:30:0 AM",
+      "data": {
+        "mic": 280,
+        "total": 280
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "mic": 280,
+        "total": 280
+      }
+    },
+    {
+      "type": "summary",
+      "time": "11:45:0 AM",
+      "data": {
+        "mic": 155,
+        "total": 155
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "mic": 155,
+        "total": 155
+      }
+    },
+    {
+      "type": "summary",
+      "time": "12:0:0 PM",
+      "data": {
+        "mic": 189,
+        "total": 189
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "mic": 189,
+        "total": 189
+      }
+    },
+    {
+      "type": "summary",
+      "time": "12:15:0 PM",
+      "data": {
+        "mic": 119,
+        "total": 119
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "mic": 119,
+        "total": 119
+      }
+    },
+    {
+      "type": "summary",
+      "time": "12:30:0 PM",
+      "data": {
+        "mic": 129,
+        "total": 129
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "mic": 129,
+        "total": 129
+      }
+    },
+    {
+      "type": "summary",
+      "time": "12:45:0 PM",
+      "data": {
+        "mic": 91,
+        "total": 91
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "mic": 91,
+        "total": 91
+      }
+    },
+    {
+      "type": "summary",
+      "time": "1:0:0 PM",
+      "data": {
+        "mic": 73,
+        "total": 73
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "mic": 73,
+        "total": 73
+      }
+    },
+    {
+      "type": "summary",
+      "time": "1:15:0 PM",
+      "data": {
+        "mic": 69,
+        "total": 69
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "mic": 69,
+        "total": 69
+      }
+    },
+    {
+      "type": "summary",
+      "time": "1:30:0 PM",
+      "data": {
+        "mic": 4,
+        "total": 4
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "mic": 4,
+        "total": 4
+      }
+    },
+    {
+      "type": "period",
+      "num": 3,
+      "title": "Lunch",
+      "data": {
+        "mic": 1472,
+        "total": 1472
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "mic": 1472,
+        "total": 1472
+      }
+    },
+    {
+      "type": "summary",
+      "time": "4:30:0 PM",
+      "data": {
+        "mic": 108,
+        "total": 108
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "mic": 108,
+        "total": 108
+      }
+    },
+    {
+      "type": "summary",
+      "time": "4:45:0 PM",
+      "data": {
+        "mic": 76,
+        "total": 76
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "mic": 76,
+        "total": 76
+      }
+    },
+    {
+      "type": "summary",
+      "time": "5:0:0 PM",
+      "data": {
+        "mic": 171,
+        "total": 171
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "mic": 171,
+        "total": 171
+      }
+    },
+    {
+      "type": "summary",
+      "time": "5:15:0 PM",
+      "data": {
+        "mic": 194,
+        "total": 194
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "mic": 194,
+        "total": 194
+      }
+    },
+    {
+      "type": "summary",
+      "time": "5:30:0 PM",
+      "data": {
+        "mic": 268,
+        "total": 268
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "mic": 268,
+        "total": 268
+      }
+    },
+    {
+      "type": "summary",
+      "time": "5:45:0 PM",
+      "data": {
+        "mic": 213,
+        "total": 213
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "mic": 213,
+        "total": 213
+      }
+    },
+    {
+      "type": "summary",
+      "time": "6:0:0 PM",
+      "data": {
+        "mic": 267,
+        "total": 267
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "mic": 267,
+        "total": 267
+      }
+    },
+    {
+      "type": "summary",
+      "time": "6:15:0 PM",
+      "data": {
+        "mic": 184,
+        "total": 184
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "mic": 184,
+        "total": 184
+      }
+    },
+    {
+      "type": "summary",
+      "time": "6:30:0 PM",
+      "data": {
+        "mic": 182,
+        "total": 182
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "mic": 182,
+        "total": 182
+      }
+    },
+    {
+      "type": "summary",
+      "time": "6:45:0 PM",
+      "data": {
+        "mic": 97,
+        "total": 97
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "mic": 97,
+        "total": 97
+      }
+    },
+    {
+      "type": "summary",
+      "time": "7:0:0 PM",
+      "data": {
+        "mic": 99,
+        "total": 99
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "mic": 99,
+        "total": 99
+      }
+    },
+    {
+      "type": "summary",
+      "time": "7:15:0 PM",
+      "data": {
+        "mic": 45,
+        "total": 45
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "mic": 45,
+        "total": 45
+      }
+    },
+    {
+      "type": "summary",
+      "time": "7:30:0 PM",
+      "data": {
+        "mic": 1,
+        "total": 1
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "mic": 1,
+        "total": 1
+      }
+    },
+    {
+      "type": "period",
+      "num": 4,
+      "title": "Dinner",
+      "data": {
+        "mic": 1905,
+        "total": 1905
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "mic": 1905,
+        "total": 1905
+      }
+    },
+    {
+      "type": "total",
+      "data": {
+        "mic": 3599,
+        "total": 3599
+      }
+    }
+  ]
+}

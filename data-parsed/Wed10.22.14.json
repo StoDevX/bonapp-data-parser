@@ -1,0 +1,1117 @@
+{
+  "info": {
+    "from": {
+      "year": 2014,
+      "month": 10,
+      "day": 22,
+      "hour": 2,
+      "minute": 0,
+      "second": 0
+    },
+    "to": {
+      "year": 2014,
+      "month": 10,
+      "day": 23,
+      "hour": 1,
+      "minute": 59,
+      "second": 59
+    }
+  },
+  "data": [
+    {
+      "type": "summary",
+      "time": "7:0",
+      "data": {
+        "stav": 0,
+        "gui": 0,
+        "mic": 52,
+        "total": 52
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "stav": 0,
+        "gui": 0,
+        "mic": 52,
+        "total": 52
+      }
+    },
+    {
+      "type": "summary",
+      "time": "7:15:0 AM",
+      "data": {
+        "stav": 0,
+        "gui": 0,
+        "mic": 136,
+        "total": 136
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "stav": 0,
+        "gui": 0,
+        "mic": 136,
+        "total": 136
+      }
+    },
+    {
+      "type": "summary",
+      "time": "7:30:0 AM",
+      "data": {
+        "stav": 0,
+        "gui": 0,
+        "mic": 157,
+        "total": 157
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "stav": 0,
+        "gui": 0,
+        "mic": 157,
+        "total": 157
+      }
+    },
+    {
+      "type": "summary",
+      "time": "7:45:0 AM",
+      "data": {
+        "stav": 0,
+        "gui": 0,
+        "mic": 50,
+        "total": 50
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "stav": 0,
+        "gui": 0,
+        "mic": 50,
+        "total": 50
+      }
+    },
+    {
+      "type": "summary",
+      "time": "8:0:0 AM",
+      "data": {
+        "stav": 0,
+        "gui": 0,
+        "mic": 72,
+        "total": 72
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "stav": 0,
+        "gui": 0,
+        "mic": 72,
+        "total": 72
+      }
+    },
+    {
+      "type": "summary",
+      "time": "8:15:0 AM",
+      "data": {
+        "stav": 0,
+        "gui": 0,
+        "mic": 142,
+        "total": 142
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "stav": 0,
+        "gui": 0,
+        "mic": 142,
+        "total": 142
+      }
+    },
+    {
+      "type": "summary",
+      "time": "8:30:0 AM",
+      "data": {
+        "stav": 0,
+        "gui": 0,
+        "mic": 198,
+        "total": 198
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "stav": 0,
+        "gui": 0,
+        "mic": 198,
+        "total": 198
+      }
+    },
+    {
+      "type": "summary",
+      "time": "8:45:0 AM",
+      "data": {
+        "stav": 0,
+        "gui": 0,
+        "mic": 82,
+        "total": 82
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "stav": 0,
+        "gui": 0,
+        "mic": 82,
+        "total": 82
+      }
+    },
+    {
+      "type": "summary",
+      "time": "9:0:0 AM",
+      "data": {
+        "stav": 0,
+        "gui": 0,
+        "mic": 127,
+        "total": 127
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "stav": 0,
+        "gui": 0,
+        "mic": 127,
+        "total": 127
+      }
+    },
+    {
+      "type": "summary",
+      "time": "9:15:0 AM",
+      "data": {
+        "stav": 0,
+        "gui": 0,
+        "mic": 40,
+        "total": 40
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "stav": 0,
+        "gui": 0,
+        "mic": 40,
+        "total": 40
+      }
+    },
+    {
+      "type": "summary",
+      "time": "9:30:0 AM",
+      "data": {
+        "stav": 0,
+        "gui": 0,
+        "mic": 60,
+        "total": 60
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "stav": 0,
+        "gui": 0,
+        "mic": 60,
+        "total": 60
+      }
+    },
+    {
+      "type": "summary",
+      "time": "9:45:0 AM",
+      "data": {
+        "stav": 0,
+        "gui": 0,
+        "mic": 13,
+        "total": 13
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "stav": 0,
+        "gui": 0,
+        "mic": 13,
+        "total": 13
+      }
+    },
+    {
+      "type": "period",
+      "num": 1,
+      "title": "Breakfa",
+      "data": {
+        "stav": 0,
+        "gui": 0,
+        "mic": 1129,
+        "total": 1129
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "stav": 0,
+        "gui": 0,
+        "mic": 1129,
+        "total": 1129
+      }
+    },
+    {
+      "type": "summary",
+      "time": "7:15:0 AM",
+      "data": {
+        "stav": 7,
+        "gui": 0,
+        "mic": 0,
+        "total": 7
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "stav": 7,
+        "gui": 0,
+        "mic": 0,
+        "total": 7
+      }
+    },
+    {
+      "type": "summary",
+      "time": "7:30:0 AM",
+      "data": {
+        "stav": 11,
+        "gui": 0,
+        "mic": 0,
+        "total": 11
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "stav": 11,
+        "gui": 0,
+        "mic": 0,
+        "total": 11
+      }
+    },
+    {
+      "type": "summary",
+      "time": "7:45:0 AM",
+      "data": {
+        "stav": 16,
+        "gui": 0,
+        "mic": 0,
+        "total": 16
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "stav": 16,
+        "gui": 0,
+        "mic": 0,
+        "total": 16
+      }
+    },
+    {
+      "type": "summary",
+      "time": "8:0:0 AM",
+      "data": {
+        "stav": 8,
+        "gui": 0,
+        "mic": 0,
+        "total": 8
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "stav": 8,
+        "gui": 0,
+        "mic": 0,
+        "total": 8
+      }
+    },
+    {
+      "type": "summary",
+      "time": "8:15:0 AM",
+      "data": {
+        "stav": 3,
+        "gui": 0,
+        "mic": 0,
+        "total": 3
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "stav": 3,
+        "gui": 0,
+        "mic": 0,
+        "total": 3
+      }
+    },
+    {
+      "type": "summary",
+      "time": "8:30:0 AM",
+      "data": {
+        "stav": 8,
+        "gui": 0,
+        "mic": 0,
+        "total": 8
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "stav": 8,
+        "gui": 0,
+        "mic": 0,
+        "total": 8
+      }
+    },
+    {
+      "type": "summary",
+      "time": "8:45:0 AM",
+      "data": {
+        "stav": 30,
+        "gui": 0,
+        "mic": 0,
+        "total": 30
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "stav": 30,
+        "gui": 0,
+        "mic": 0,
+        "total": 30
+      }
+    },
+    {
+      "type": "summary",
+      "time": "9:0:0 AM",
+      "data": {
+        "stav": 9,
+        "gui": 0,
+        "mic": 0,
+        "total": 9
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "stav": 9,
+        "gui": 0,
+        "mic": 0,
+        "total": 9
+      }
+    },
+    {
+      "type": "summary",
+      "time": "9:15:0 AM",
+      "data": {
+        "stav": 5,
+        "gui": 0,
+        "mic": 0,
+        "total": 5
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "stav": 5,
+        "gui": 0,
+        "mic": 0,
+        "total": 5
+      }
+    },
+    {
+      "type": "summary",
+      "time": "9:30:0 AM",
+      "data": {
+        "stav": 5,
+        "gui": 0,
+        "mic": 0,
+        "total": 5
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "stav": 5,
+        "gui": 0,
+        "mic": 0,
+        "total": 5
+      }
+    },
+    {
+      "type": "summary",
+      "time": "9:45:0 AM",
+      "data": {
+        "stav": 13,
+        "gui": 0,
+        "mic": 0,
+        "total": 13
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "stav": 13,
+        "gui": 0,
+        "mic": 0,
+        "total": 13
+      }
+    },
+    {
+      "type": "summary",
+      "time": "10:0:0 AM",
+      "data": {
+        "stav": 36,
+        "gui": 0,
+        "mic": 0,
+        "total": 36
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "stav": 36,
+        "gui": 0,
+        "mic": 0,
+        "total": 36
+      }
+    },
+    {
+      "type": "summary",
+      "time": "10:15:0 AM",
+      "data": {
+        "stav": 40,
+        "gui": 2,
+        "mic": 0,
+        "total": 42
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "stav": 40,
+        "gui": 0,
+        "mic": 0,
+        "total": 40
+      }
+    },
+    {
+      "type": "summary",
+      "time": "10:30:0 AM",
+      "data": {
+        "stav": 35,
+        "gui": 0,
+        "mic": 50,
+        "total": 85
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "stav": 35,
+        "gui": 0,
+        "mic": 50,
+        "total": 85
+      }
+    },
+    {
+      "type": "summary",
+      "time": "10:45:0 AM",
+      "data": {
+        "stav": 9,
+        "gui": 0,
+        "mic": 42,
+        "total": 51
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "stav": 9,
+        "gui": 0,
+        "mic": 42,
+        "total": 51
+      }
+    },
+    {
+      "type": "summary",
+      "time": "11:0:0 AM",
+      "data": {
+        "stav": 22,
+        "gui": 0,
+        "mic": 135,
+        "total": 157
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "stav": 22,
+        "gui": 0,
+        "mic": 135,
+        "total": 157
+      }
+    },
+    {
+      "type": "summary",
+      "time": "11:15:0 AM",
+      "data": {
+        "stav": 16,
+        "gui": 0,
+        "mic": 77,
+        "total": 93
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "stav": 16,
+        "gui": 0,
+        "mic": 77,
+        "total": 93
+      }
+    },
+    {
+      "type": "summary",
+      "time": "11:30:0 AM",
+      "data": {
+        "stav": 32,
+        "gui": 0,
+        "mic": 63,
+        "total": 95
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "stav": 32,
+        "gui": 0,
+        "mic": 63,
+        "total": 95
+      }
+    },
+    {
+      "type": "summary",
+      "time": "11:45:0 AM",
+      "data": {
+        "stav": 48,
+        "gui": 0,
+        "mic": 380,
+        "total": 428
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "stav": 48,
+        "gui": 0,
+        "mic": 380,
+        "total": 428
+      }
+    },
+    {
+      "type": "summary",
+      "time": "12:0:0 PM",
+      "data": {
+        "stav": 33,
+        "gui": 0,
+        "mic": 128,
+        "total": 161
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "stav": 33,
+        "gui": 0,
+        "mic": 128,
+        "total": 161
+      }
+    },
+    {
+      "type": "summary",
+      "time": "12:15:0 PM",
+      "data": {
+        "stav": 14,
+        "gui": 0,
+        "mic": 98,
+        "total": 112
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "stav": 14,
+        "gui": 0,
+        "mic": 98,
+        "total": 112
+      }
+    },
+    {
+      "type": "summary",
+      "time": "12:30:0 PM",
+      "data": {
+        "stav": 16,
+        "gui": 0,
+        "mic": 46,
+        "total": 62
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "stav": 16,
+        "gui": 0,
+        "mic": 46,
+        "total": 62
+      }
+    },
+    {
+      "type": "summary",
+      "time": "12:45:0 PM",
+      "data": {
+        "stav": 39,
+        "gui": 0,
+        "mic": 269,
+        "total": 308
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "stav": 39,
+        "gui": 0,
+        "mic": 269,
+        "total": 308
+      }
+    },
+    {
+      "type": "summary",
+      "time": "1:0:0 PM",
+      "data": {
+        "stav": 20,
+        "gui": 0,
+        "mic": 117,
+        "total": 137
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "stav": 20,
+        "gui": 0,
+        "mic": 117,
+        "total": 137
+      }
+    },
+    {
+      "type": "summary",
+      "time": "1:15:0 PM",
+      "data": {
+        "stav": 8,
+        "gui": 0,
+        "mic": 40,
+        "total": 48
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "stav": 8,
+        "gui": 0,
+        "mic": 40,
+        "total": 48
+      }
+    },
+    {
+      "type": "summary",
+      "time": "1:30:0 PM",
+      "data": {
+        "stav": 6,
+        "gui": 0,
+        "mic": 26,
+        "total": 32
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "stav": 6,
+        "gui": 0,
+        "mic": 26,
+        "total": 32
+      }
+    },
+    {
+      "type": "summary",
+      "time": "1:45:0 PM",
+      "data": {
+        "stav": 10,
+        "gui": 0,
+        "mic": 62,
+        "total": 72
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "stav": 10,
+        "gui": 0,
+        "mic": 62,
+        "total": 72
+      }
+    },
+    {
+      "type": "summary",
+      "time": "2:0:0 PM",
+      "data": {
+        "stav": 0,
+        "gui": 0,
+        "mic": 10,
+        "total": 10
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "stav": 0,
+        "gui": 0,
+        "mic": 10,
+        "total": 10
+      }
+    },
+    {
+      "type": "period",
+      "num": 3,
+      "title": "Lunch",
+      "data": {
+        "stav": 499,
+        "gui": 2,
+        "mic": 1543,
+        "total": 2044
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "stav": 499,
+        "gui": 0,
+        "mic": 1543,
+        "total": 2042
+      }
+    },
+    {
+      "type": "summary",
+      "time": "2:30:0 PM",
+      "data": {
+        "stav": 0,
+        "gui": 16,
+        "mic": 0,
+        "total": 16
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "stav": 0,
+        "gui": 16,
+        "mic": 0,
+        "total": 16
+      }
+    },
+    {
+      "type": "summary",
+      "time": "4:30:0 PM",
+      "data": {
+        "stav": 0,
+        "gui": 0,
+        "mic": 88,
+        "total": 88
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "stav": 0,
+        "gui": 0,
+        "mic": 88,
+        "total": 88
+      }
+    },
+    {
+      "type": "summary",
+      "time": "4:45:0 PM",
+      "data": {
+        "stav": 0,
+        "gui": 0,
+        "mic": 76,
+        "total": 76
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "stav": 0,
+        "gui": 0,
+        "mic": 76,
+        "total": 76
+      }
+    },
+    {
+      "type": "summary",
+      "time": "5:0:0 PM",
+      "data": {
+        "stav": 0,
+        "gui": 0,
+        "mic": 200,
+        "total": 200
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "stav": 0,
+        "gui": 0,
+        "mic": 200,
+        "total": 200
+      }
+    },
+    {
+      "type": "summary",
+      "time": "5:15:0 PM",
+      "data": {
+        "stav": 0,
+        "gui": 0,
+        "mic": 189,
+        "total": 189
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "stav": 0,
+        "gui": 0,
+        "mic": 189,
+        "total": 189
+      }
+    },
+    {
+      "type": "summary",
+      "time": "5:30:0 PM",
+      "data": {
+        "stav": 0,
+        "gui": 0,
+        "mic": 276,
+        "total": 276
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "stav": 0,
+        "gui": 0,
+        "mic": 276,
+        "total": 276
+      }
+    },
+    {
+      "type": "summary",
+      "time": "5:45:0 PM",
+      "data": {
+        "stav": 0,
+        "gui": 0,
+        "mic": 272,
+        "total": 272
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "stav": 0,
+        "gui": 0,
+        "mic": 272,
+        "total": 272
+      }
+    },
+    {
+      "type": "summary",
+      "time": "6:0:0 PM",
+      "data": {
+        "stav": 13,
+        "gui": 0,
+        "mic": 320,
+        "total": 333
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "stav": 13,
+        "gui": 0,
+        "mic": 320,
+        "total": 333
+      }
+    },
+    {
+      "type": "summary",
+      "time": "6:15:0 PM",
+      "data": {
+        "stav": 0,
+        "gui": 0,
+        "mic": 164,
+        "total": 164
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "stav": 0,
+        "gui": 0,
+        "mic": 164,
+        "total": 164
+      }
+    },
+    {
+      "type": "summary",
+      "time": "6:30:0 PM",
+      "data": {
+        "stav": 0,
+        "gui": 0,
+        "mic": 128,
+        "total": 128
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "stav": 0,
+        "gui": 0,
+        "mic": 128,
+        "total": 128
+      }
+    },
+    {
+      "type": "summary",
+      "time": "6:45:0 PM",
+      "data": {
+        "stav": 0,
+        "gui": 0,
+        "mic": 118,
+        "total": 118
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "stav": 0,
+        "gui": 0,
+        "mic": 118,
+        "total": 118
+      }
+    },
+    {
+      "type": "summary",
+      "time": "7:0:0 PM",
+      "data": {
+        "stav": 0,
+        "gui": 0,
+        "mic": 116,
+        "total": 116
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "stav": 0,
+        "gui": 0,
+        "mic": 116,
+        "total": 116
+      }
+    },
+    {
+      "type": "summary",
+      "time": "7:15:0 PM",
+      "data": {
+        "stav": 0,
+        "gui": 0,
+        "mic": 47,
+        "total": 47
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "stav": 0,
+        "gui": 0,
+        "mic": 47,
+        "total": 47
+      }
+    },
+    {
+      "type": "summary",
+      "time": "7:30:0 PM",
+      "data": {
+        "stav": 0,
+        "gui": 0,
+        "mic": 8,
+        "total": 8
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "stav": 0,
+        "gui": 0,
+        "mic": 8,
+        "total": 8
+      }
+    },
+    {
+      "type": "period",
+      "num": 4,
+      "title": "Dinner",
+      "data": {
+        "stav": 13,
+        "gui": 16,
+        "mic": 2002,
+        "total": 2031
+      }
+    },
+    {
+      "type": "basic",
+      "data": {
+        "stav": 13,
+        "gui": 16,
+        "mic": 2002,
+        "total": 2031
+      }
+    },
+    {
+      "type": "total",
+      "data": {
+        "stav": 512,
+        "gui": 18,
+        "mic": 4674,
+        "total": 5204
+      }
+    }
+  ]
+}
