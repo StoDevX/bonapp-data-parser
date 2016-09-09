@@ -11,9 +11,7 @@
             height: 100vh;
             margin: 0;
             padding: 10px;
-            display: flex;
-            align-items: stretch;
-            flex-flow: row wrap;
+
         }
         body > * {
             flex: 1;
@@ -24,7 +22,9 @@
             overflow: scroll;
         }
         .CodeMirror {
-            height: auto;
+            flex: 1;
+            border: solid 1px gray;
+            min-width: 300px;
         }
         x-row, x-col {
             display: flex;
@@ -32,10 +32,7 @@
             flex: 1;
         }
         x-row {
-            flex-flow: row nowrap;
-        }
-        x-col {
-            flex-flow: column nowrap;
+            flex-flow: row wrap;
         }
         select {
             height: 20px;
@@ -45,26 +42,22 @@
         window.app = {}
         window.module = {}
     </script>
-    <script src="https://unpkg.com/whatwg-fetch@1.0.0"></script>
 </head>
 <body>
+    <x-row>
+        <select id="js-docs">
+            <option selected disabled>Pick a file</option>
+        </select>
+    </x-row>
     <x-row id="app">
-        <x-col>
-            <x-row>
-                <select id="js-docs">
-                    <option disabled></option>
-                </select>
-            </x-row>
-            <textarea id="js-fileinput"></textarea>
-        </x-col>
-        <x-col>
-            <textarea id="js-fileoutput"></textarea>
-        </x-col>
+        <textarea id="js-fileinput"></textarea>
+        <textarea id="js-fileoutput"></textarea>
     </x-row>
 
-    <script src="./html.js"></script>
+    <script src="https://unpkg.com/whatwg-fetch@1.0.0"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.18.2/codemirror.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.18.2/mode/javascript/javascript.min.js"></script>
+    <script src="./html.js"></script>
     <script src="./bonapp.js"></script>
     <script>window.app.parser = module.exports</script>
 
