@@ -25,6 +25,8 @@
             flex: 1;
             border: solid 1px gray;
             min-width: 300px;
+            height: auto;
+            min-height: 300px;
         }
         x-row, x-col {
             display: flex;
@@ -63,7 +65,6 @@
 
     <script>
         function loadDoc(data) {
-            // console.log('loadDoc', data, output)
             data = data.split('\n')
             if (!data[0].trim().startsWith('MEALPLANTRANLEDG')) {
                 data = data.slice(11)
