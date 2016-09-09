@@ -1,0 +1,138 @@
+<!doctype html>
+<html lang="en-US" dir="ltr">
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.18.2/codemirror.min.css"></link>
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+        body {
+            height: 100vh;
+            margin: 0;
+            padding: 10px;
+            display: flex;
+            align-items: stretch;
+            flex-flow: row wrap;
+        }
+        body > * {
+            flex: 1;
+        }
+        output {
+            font-family: monospace;
+            white-space: pre;
+            overflow: scroll;
+        }
+        .CodeMirror {
+            height: auto;
+        }
+        x-row, x-col {
+            display: flex;
+            align-items: stretch;
+            flex: 1;
+        }
+        x-row {
+            flex-flow: row nowrap;
+        }
+        x-col {
+            flex-flow: column nowrap;
+        }
+        select {
+            height: 20px;
+        }
+    </style>
+    <script>
+        window.app = {}
+        window.module = {}
+    </script>
+</head>
+<body>
+    <x-row id="app">
+        <x-col>
+            <x-row>
+                <select id="js-docs">
+                    <option disabled></option>
+                </select>
+            </x-row>
+            <textarea id="js-fileinput"></textarea>
+        </x-col>
+        <x-col>
+            <textarea id="js-fileoutput"></textarea>
+        </x-col>
+    </x-row>
+
+    <script src="./html.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.18.2/codemirror.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.18.2/mode/javascript/javascript.min.js"></script>
+    <script src="./bonapp.js"></script>
+    <script>window.app.parser = module.exports</script>
+
+    <script>
+        function loadDoc(data) {
+            // console.log('loadDoc', data, output)
+            data = data.split('\n')
+            if (!data[0].trim().startsWith('MEALPLANTRANLEDG')) {
+                data = data.slice(11)
+            }
+            data = data.join('\n')
+            let out = JSON.stringify(app.parser.parse(data), null, 2)
+            return out
+        }
+    </script>
+
+    <script>
+        let textCm = CodeMirror.fromTextArea(document.querySelector('#js-fileinput'), {
+            lineWrapping: true,
+            smartIndent: false,
+        })
+        let jsCm = CodeMirror.fromTextArea(document.querySelector('#js-fileoutput'), {
+            mode:  "javascript",
+            lineWrapping: true,
+            readOnly: 'nocursor',
+        });
+        textCm.on('change', () => jsCm.setValue(loadDoc(textCm.getValue())))
+    </script>
+
+    <script>
+        const text = resp => resp.text()
+
+        function status(response) {
+            if (response.status >= 200 && response.status < 300) {
+                return response
+            } else {
+                var error = new Error(response.statusText)
+                error.response = response
+                throw error
+            }
+        }
+
+        function fetchDocList() {
+            return fetch('./datafiles.txt').then(status).then(text)
+                .then(t =>
+                    t.split('\n')
+                    .map(l => l.trim())
+                    .filter(l => l))
+        }
+
+        function fetchDoc(fn) {
+            return fetch(`./data-raw/${fn}`).then(status).then(text)
+        }
+
+        function init() {
+            fetchDocList()
+                .then(docs => {
+                    let opts = docs.map(d => html`<option value="${d}">${d}</option>`)
+                    opts.forEach(o => document.querySelector('#js-docs').add(o))
+                })
+        }
+
+        document.addEventListener('DOMContentLoaded', init)
+        document.querySelector('#js-docs').addEventListener('change', e => {
+            let fn = e.target.value
+            console.log('selected', fn)
+            fetchDoc(fn)
+                .then(data => textCm.setValue(data))
+        })
+    </script>
+</body>
+</html>
